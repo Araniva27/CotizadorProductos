@@ -1,0 +1,31 @@
+/* Estilos para la tabla */
+.table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 1rem;
+    background-color: transparent;
+    color: #212529;
+}
+
+/* Estilos para las filas */
+tr {
+    border-top: 1px solid #dee2e6;
+}
+
+/* Estilos para las celdas de encabezado */
+th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+    text-align: inherit;
+    font-weight: 700;
+    padding: 0.75rem;
+}
+
+/* Estilos para las celdas de datos */
+td {
+    vertical-align: middle;
+    border-bottom: 1px solid #dee2e6;
+    text-align: inherit;
+    padding: 0.75rem;
+}

@@ -1,0 +1,53 @@
+<?xml version = "1.0"?>
+<productos>
+    <producto codigo = "1">
+        <codigo>1</codigo>
+        <nombre>Televisor Samsung 32 pulgadas</nombre>
+        <precio>350.0</precio>
+    </producto>
+    <producto codigo = "2">
+        <codigo>2</codigo>
+        <nombre>Televisor TCL 48 pulgadas</nombre>
+        <precio>250.0</precio>
+    </producto>
+    <producto codigo = "3">
+        <codigo>3</codigo>
+        <nombre>Licuadora Oster 5 velocidades</nombre>
+        <precio>75</precio>
+    </producto>
+    <producto codigo = "4">
+        <codigo>4</codigo>
+        <nombre>Lavadora LG</nombre>
+        <precio>450</precio>
+    </producto>
+    <producto codigo = "5">
+        <codigo>5</codigo>
+        <nombre>Equipo de sonido Sony</nombre>
+        <precio>299.99</precio>
+    </producto>
+    <producto codigo = "6">
+        <codigo>6</codigo>
+        <nombre>PlayStation 4</nombre>
+        <precio>499.99</precio>
+    </producto>
+    <producto codigo = "7">
+        <codigo>7</codigo>
+        <nombre>PlayStation 5</nombre>
+        <precio>999.99</precio>
+    </producto>
+    <producto codigo = "8">
+        <codigo>8</codigo>
+        <nombre>Tostadora de pan</nombre>
+        <precio>20</precio>
+    </producto>
+    <producto codigo = "9">
+        <codigo>9</codigo>
+        <nombre>Sandwichera</nombre>
+        <precio>14</precio>
+    </producto>
+    <producto codigo = "10">
+        <codigo>10</codigo>
+        <nombre>Teléfono Samnsun A51</nombre>
+        <precio>500</precio>
+    </producto>
+</productos>
