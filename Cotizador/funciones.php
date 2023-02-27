@@ -10,7 +10,7 @@
 		<html>      
 			<body
 			<div style= "border-color:blue; padding: 10; " >
-				<center style = "font-family: Arial, Helvetica, sans-serif; font-size: 30px; font-weight: bold;">Factura de compra</center>
+				<center style = "font-family: Arial, Helvetica, sans-serif; font-size: 30px; font-weight: bold;">Cotización</center>
 				<center style = "font-family: Arial, Helvetica, sans-serif; font-size: 15px">Fecha de creación: '.$fechaActual.'</center>
 				<center style = "font-family: Arial, Helvetica, sans-serif; font-size: 15px">Hora de creación '.$horaActual.'</center>
 			</div>

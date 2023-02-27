@@ -51,11 +51,13 @@
 
 			if(isset($_POST['enviarFactura']))
 			{
-				include 'funciones.php';
-				crearPDF($_SESSION['productos']);
+				
 				$correo = $_REQUEST["correo"];
 				if($correo != null)
 				{
+					//se genera el reporte
+					include 'funciones.php';
+					crearPDF($_SESSION['productos']);
 					//Create an instance; passing `true` enables exceptions
 					$mail = new PHPMailer(true);
 
