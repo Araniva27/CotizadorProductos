@@ -1,3 +1,6 @@
+<?php
+	session_start();
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -20,9 +23,7 @@
 		</div>
 	</header>
 	<main>		
-		<?php
-			
-			session_start();	
+		<?php	
 			use PHPMailer\PHPMailer\PHPMailer;
 			use PHPMailer\PHPMailer\Exception;
 
